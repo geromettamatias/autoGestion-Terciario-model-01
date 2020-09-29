@@ -1,0 +1,32 @@
+.borde{
+    background-color: gray;
+    height: 200px;
+  }
+  .borde1{
+    background-color: #91AF9E;
+    text-align: center;
+    height: 100px;
+  }
+  .borde2{
+    height: 100px;
+    text-align: center;
+    background-color: olivedrab;
+  }
+  .borde3{
+    height: 100px;
+    text-align: center;
+    background-color: orangered;
+  }
+   .bordeLogo{
+    text-align: center;
+  }
+
+.borde4{
+ background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-image: url(1.jpg);
+
+
+}
+
